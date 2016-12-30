@@ -1,0 +1,4 @@
+
+Options -Indexes
+RewriteEngine On
+RewriteRule ^gps-([0-9]+)\.html$ gps.php?sortg=$1

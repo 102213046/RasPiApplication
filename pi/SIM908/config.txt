@@ -1,0 +1,8 @@
+ftpgyro ftpaccel
+0 0
+smsgyro smsaccel
+1000.0 25.0
+bluetoothgyro bluetoothaccel
+100.0 20.0
+MPU second
+10
